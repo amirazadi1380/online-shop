@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(14, 13, 26, 0.992);
+}
+nav{
+   border-bottom: 1px solid rgb(39, 29, 29);
+   padding: 2px;
+}
+header{
+    border-radius: 20px;
+    height:550px;
+}
+main{
+/* background-color: rgba(3, 16, 20, 0.74); */ 
+background-image: url('galaxy1.jpg');
+border-radius: 20px;
+}
